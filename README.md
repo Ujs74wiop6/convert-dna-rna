@@ -7,7 +7,10 @@
 $ git clone git@github.com:Ujs74wiop6/converter-dna-rna.git
 ```
 
-This project was using Lening*
+<details>
+<summary>This project was using Leiningen*</summary>
+ <a href="https://leiningen.org">Leiningen</a> is dependency and package management for the Clojure language.
+</details>
 
 ## Run
 
