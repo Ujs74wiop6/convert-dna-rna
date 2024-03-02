@@ -4,7 +4,7 @@
 
 ## Usage
 ```bash
-$ git clone git@github.com:Ujs74wiop6/converter-dna-rna.git
+git clone git@github.com:Ujs74wiop6/convert-dna-rna.git
 ```
 
 <details>
@@ -15,10 +15,10 @@ $ git clone git@github.com:Ujs74wiop6/converter-dna-rna.git
 ## Run
 
 ```bash
-$ lein deps
+lein deps
 ```
 ```bash
-$ lein run
+lein run
 ```
 
 [Documentation](https://practical.li/clojure/simple-projects/)
